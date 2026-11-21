@@ -81,7 +81,7 @@ It provides insights into:
 
 **Employee Performance & KPI Dashboard:**
 
-![Employee Performance KPI Dashboard](images/Dashboard.png)
+![Employee Performance KPI Dashboard](img/Dashboard.png)
 
 ---
 
