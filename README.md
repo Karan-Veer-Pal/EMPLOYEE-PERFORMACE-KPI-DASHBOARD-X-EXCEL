@@ -77,6 +77,14 @@ It provides insights into:
 
 ---
 
+## 📸 DataSet Overview
+
+![Employee Performance KPI Dashboard](img/DataSetA.png)
+
+![Employee Performance KPI Dashboard](img/DataSetB.png)
+
+---
+
 ## 📸 Dashboard Preview
 
 **Employee Performance & KPI Dashboard:**
