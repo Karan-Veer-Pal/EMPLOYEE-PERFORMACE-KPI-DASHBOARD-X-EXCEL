@@ -79,9 +79,9 @@ It provides insights into:
 
 ## 📸 DataSet Overview
 
-![Employee Performance KPI Dashboard](img/DataSetA.png)
+![Employee Performance KPI Dashboard X EXCEL](img/DataSetA.png)
 
-![Employee Performance KPI Dashboard](img/DataSetB.png)
+![Employee Performance KPI Dashboard X EXCEL](img/DataSetB.png)
 
 ---
 
